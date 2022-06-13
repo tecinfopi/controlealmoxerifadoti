@@ -1,0 +1,7 @@
+object Frm_principal: TFrm_principal
+  Left = 257
+  Height = 285
+  Top = 31
+  Width = 538
+  Caption = 'Controle de Estoque VERSÃO 1.1.1.1'
+end
